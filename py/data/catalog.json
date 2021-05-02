@@ -1,0 +1,57 @@
+[
+    {
+    "sku": "LG0001",
+    "name": "'Troinoy' perfume",
+    "category" : "beauty",
+    "price": 18.99,
+    "imported" : false
+    },{
+    "sku": "LG0002",
+    "name": "'Zero to One: Notes on Startups, or How to Build the Future' book",
+    "category" : "books",
+    "price": 12.49,
+    "imported" : false
+    },{
+    "sku": "LG0003",
+    "name": "'Salo v Shokoladi' chocolate bar",
+    "category" : "food",
+    "price": 0.85,
+    "imported" : false
+    },{
+    "sku": "LG0004",
+    "name": "'Analgin' headache pills",
+    "category" : "meds",
+    "price": 9.75,
+    "imported" : false
+    },{
+    "sku": "LG0005",
+    "name": "'Okean Elzy - Zemlya' music CD",
+    "category" : "music",
+    "price": 14.99,
+    "imported" : false
+    },{
+    "sku": "IG0001",
+    "name": "'Chanel #5' perfume",
+    "category" : "beauty",
+    "price": 47.50,
+    "imported" : true
+    },{
+    "sku": "IG0002",
+    "name": "'Prada CANDY' perfume",
+    "category" : "beauty",
+    "price": 27.99,
+    "imported" : true
+    },{
+    "sku": "IG0003",
+    "name": "'Rocher Lait' chocolate",
+    "category" : "food",
+    "price": 10.00,
+    "imported" : true
+    },{
+    "sku": "IG0004",
+    "name": "'The Twigs Collection' chocolate",
+    "category" : "food",
+    "price": 11.25,
+    "imported" : true
+    }
+]
